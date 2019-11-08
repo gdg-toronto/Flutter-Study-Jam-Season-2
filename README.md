@@ -16,5 +16,5 @@ Please kindly note that this is also a positive and respectful environment.
 - Flutter Docs Cookbook (https://flutter.dev/docs/cookbook)
 - Dartpad (https://dartpad.dev/)
 
-- Another Udemy course with content updated in July 2019 -https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
+- Another Udemy course with content updated in July 2019 -https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/  now on the google play store in beta at https://play.google.com/store/apps/details?id=com.thesoftwaretaylor.game_maze
 - A Flutter based game made by one of the Flutte Jam 2 attendees - https://github.com/corymalcolmtaylor/game_maze
